@@ -1,0 +1,43 @@
+main{
+    background-color: rgb(201, 245, 243);
+    text-align: center;
+    padding: 25px;
+}
+
+h4{
+    background: rgb(162, 218, 240);
+    color: rgb(41, 31, 31);
+    text-align: left;
+    font-size: 1.3rem;
+    margin: 25px;
+    border-radius: 10px;
+    padding: 30px;
+    
+}
+
+h1 {
+    
+        background: rgb(221, 128, 230);
+        color: rgb(80, 55, 55);
+        text-align: center;
+        font-size: 1.3rem;
+        margin: 10px;
+        border-radius: 40px;
+        width: 90%;
+        padding: 20px;
+        transform-style: preserve-3d;
+    
+}
+h3 {
+    
+    background: rgb(137, 82, 189);
+    color: rgb(255, 247, 247);
+    text-align: left;
+    font-size: 1.3rem;
+    margin: 10px;
+    border-radius: 40px;
+    width: 90%;
+    padding: 20px;
+    transform-style: preserve-3d;
+
+}
